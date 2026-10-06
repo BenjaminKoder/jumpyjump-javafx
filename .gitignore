@@ -1,0 +1,10 @@
+# Byggefiler
+target/
+__pycache__/
+*.class
+
+# Systemfiler og lokale data
+.DS_Store
+*.ser
+.vscode/
+.idea/
